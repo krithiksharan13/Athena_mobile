@@ -733,7 +733,7 @@ We've lived this problem. We've missed lectures. We've felt disengaged. Athena i
 - **Event**: Leeds Hackathon 2026
 - **Track**: Education Technology
 - **Date**: February 8, 2026
-- **Team Name**: Team Athena
+- **Team Name**: Team Aegis
 
 ---
 
