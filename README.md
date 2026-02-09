@@ -128,19 +128,6 @@ During the hackathon, we tested with 8 Leeds students:
 **Key Feedback Quote:**  
 *"This is what Blackboard should have been. Finally, something that makes uni feel less lonely."* - 2nd Year Computer Science Student
 
----
-
-## 🚀 Impact & Innovation
-
-### 📊 Expected Impact
-
-| Metric | Current | With Athena | Improvement |
-|--------|---------|-------------|-------------|
-| Average Attendance | 65% | 85%+ | **+30%** 📈 |
-| At-Risk Identification | 6-8 weeks | Real-time | **90% faster** ⚡ |
-| Student Engagement | Low | High | **Gamified** 🎮 |
-| Admin Time on Tracking | 10 hrs/week | <1 hr/week | **90% reduction** ⏱️ |
-| First-Year Retention | 75% | 85%+ | **+10%** 🎯 |
 
 ### 💡 Innovation Highlights
 
@@ -477,15 +464,10 @@ python main.py
 ## 👥 Team
 
 **Team Athena** - Built at Leeds Hackathon 2026
-
-| Role | Responsibilities |
-|------|-----------------|
-| **Full-Stack Developer** | FastAPI backend, database design, API architecture |
-| **Frontend Developer** | React UI, user experience, responsive design |
-| **UX/UI Designer** | Interface design, gamification mechanics, user flows |
-| **Data Analyst** | Risk algorithm, engagement metrics, analytics dashboard |
-
-*Add your team members' names, GitHub profiles, and photos here!*
+- Krithik Sharan Suresh Alagianayagi
+- Uday Reddy Kiran Mule
+- Haritej Karimisetti
+- Asjad Moiz Khan
 
 ---
 
